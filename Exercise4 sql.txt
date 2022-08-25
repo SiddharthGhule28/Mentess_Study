@@ -1,0 +1,66 @@
+Write a query to get unique department ID from employee table.
+
+ans--select distinct department_id from employees;
+
+***
+Write a query to get all employee details from the employee table order by first name, descending.
+
+ans--select * from employees order by first_name desc;
+
+***
+Write a query to get the employee ID, names (first_name, last_name), salary in ascending order of
+salary.
+
+ans--select e.employee_id,e.first_name,e.last_name,e.salary from employees e order by salary asc;
+
+***
+Display first name and join date of the employees who is either IT Programmer or Sales Man.
+
+ans--select first_name,hire_date as join_date from employees where job_id in ('sa_rep', 'it_prog');
+
+***
+Display details of employee with ID 150 or 160.
+
+ans--select * from employees where employee_id=150 or employee_id=160;
+
+***
+Display first name, salary, commission pct, and hire date for employees with salary less than 10000.
+
+ans--select first_name,salary,commission_pct,hire_date from employees where salary<10000;
+
+***
+Display employees where the first name or last name starts with S.
+
+ans--select * from employees where first_name like 's%' or last_name like 's%';
+
+***
+Display details of jobs in the descending order of the title.
+
+ans--select * from jobs order by job_title desc;
+
+***
+Display details of the employees where commission percentage is null and salary in the range 5000
+to 10000 and department is 30.
+
+ans--select * from employees where (commission_pct=null and salary between 5000 and 10000) and department_id=30;
+
+***
+Display employees first_name,email who are working in “Executive” department.
+
+ans--select department_id from departments where department_name='executive';
+select first_name,email from employees where department_id=90
+
+***
+Display unique contry_id from locations table.
+
+ans--select country_id from locations;
+
+***
+Display all employees whose have job_id IT_PROG and FI_ACCOUNT.
+
+ans--select * from employees where job_id in ('it_prog','fi_account')
+
+***
+Display all countries in ascending order.
+
+ans--select country_name from countries order by country_name asc;

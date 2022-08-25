@@ -1,0 +1,61 @@
+--create 'student_db' database
+
+create database student_db;
+
+--create following tables in database with proper data types
+
+--student: id (PK), name, address, phone, email, age, schoolId (FK)
+
+create table student(
+id integer primary key,
+name varchar(20),
+address varchar(30),
+phone integer,
+email varchar(20),
+age integer,
+schoolid integer,
+);
+
+--school: id (PK), name, address, principal, phone
+
+create table school(
+id integer primary key,
+name varchar(20),
+address varchar(30),
+principal varchar(20),
+phone integer
+);
+
+alter table student
+add
+foreign key (schoolid) references school(id);
+
+--create relationship as shown in the table schema
+
+insert into school
+(id, name, address, principal, phone)
+values
+(1,'Bishops','pune','VR Rao', 123),
+(2,'PEMS','Kolhapur','Mr. Patil', 456),
+(3,'CWIT','nagar','Mr. Mankar', 789);
+
+select * from school;
+
+insert into student
+(id, name, address, phone, email, age, schoolid)
+values
+(1,'karan','pune',8098,'karan@gmail.com',22,1),
+(2,'aniket','kolhapur',4567,'aniket@gmail.com',23,2),
+(3,'gitesh','shirur',1234,'gitesh@gmail.com',21,1),
+(4,'amit','mumbai',7896,'amit@gmail.com',25,2),
+(5,'sagar','nagar',1478,'sagar@gmail.com',20,3)
+;
+
+select * from student;
+
+
+***
+--shows student names with their repective school names
+
+select s.name, sc.name  from student s
+inner join school sc on s.schoolid = sc.id;
