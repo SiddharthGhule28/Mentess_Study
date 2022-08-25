@@ -1,7 +1,7 @@
 -- CREATE DATABASE Prouduct_db;
 -- USE Prouduct_db;
 --  CREATE TABLE Order_detail(
---      id INT PRIMARY KEY IDENTITY(1,1),
+--      ID INT PRIMARY KEY IDENTITY(1,1),
 --      Order_id INTEGER,
 --      Product_id INTEGER,
 --      Quantity FLOAT,
@@ -14,7 +14,7 @@
 
 --  );
 -- -- CREATE TABLE Product(
---     id INT PRIMARY KEY IDENTITY(1,1),
+--     ID  INT PRIMARY KEY IDENTITY(1,1),
 --     Title VARCHAR(20),
 --     Price FLOAT,
 --     Description VARCHAR(20),
@@ -23,13 +23,13 @@
 --       FOREIGN KEY(Category) REFERENCES Categories (id),
 --  );
 -- CREATE TABLE Categories(
---      id INT PRIMARY KEY IDENTITY(1,1),
+--      ID  INT PRIMARY KEY IDENTITY(1,1),
 --      Title VARCHAR(20),
 --      Description VARCHAR(20),
 --  );
 
 -- CREATE TABLE Orders(
---  id INT PRIMARY KEY IDENTITY(1,1),
+--  ID  INT PRIMARY KEY IDENTITY(1,1),
 --      Total VARCHAR(20),
 --      DATE DATE,
 --  );
