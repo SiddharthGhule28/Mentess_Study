@@ -1,0 +1,41 @@
+Write a query that counts the number of salespeople registering orders for each day. (If a
+salesperson has more than one order on a given day, he or she should be counted only once.).
+
+ans--select snum,odate, count(*) as orders from orders group by odate,snum;
+
+***
+Write a query on the Customers table that will find the highest rating in each city. Put the output in
+this form:
+For the city (city), the highest rating is : (rating).
+
+ans--select city, max(rating) as highest_rating_is from customers group by city;
+
+***
+Write a query that totals the orders for each day and places the results in descending order.
+
+ans--select odate,sum(amt) from orders group by odate order by sum(amt) desc;
+
+***
+Write a query that selects the total amount in orders for each salesperson for whom this total is
+greater than the amount of the largest order in the table.
+
+ans--select snum,sum(amt) as total from orders group by snum having sum(amt)>max(amt);
+
+***
+Write a query that selects the highest rating in each city.
+
+ans-- select city,max(rating) as max_rating from customers group by city;
+
+***
+Largest order taken by each salesperson with order value more than Rs.3000. 
+
+ans--select snum, max(amt) from orders group by snum having max(amt)>3000;
+
+***
+ Select each customer smallest order.
+
+ans--select cnum,min(amt) as min_amt from orders group by snum;
+
+
+
+

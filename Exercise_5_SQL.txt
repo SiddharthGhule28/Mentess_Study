@@ -1,0 +1,76 @@
+Display first name and last name after converting the first letter of each name to upper case and
+the rest to lower case.
+
+ans--select upper(left(first_name,1))+lower(substring(first_name,2,len(first_name))),  upper(left(last_name,1))+lower(substring(last_name,2,len(last_name))) from employees;
+
+***
+Display the first word in job title.
+
+ans--select left(job_title,charindex(' ',job_title + ' ')-1) from jobs;
+
+***
+Display the length of first name for employees where last name contain character ‘b’ after 3rd
+position.
+
+ans--select  len(first_name) from employees where last_name like '___%b%';
+
+***
+Display first name in upper case and email address in lower case for employees where the first
+name and email address are same irrespective of the case.
+
+ans--select upper(first_name),lower(email) from employees where upper(first_name)=upper(email);
+
+***
+Display first name, salary, and round the salary to thousands.
+
+ans--select first_name,salary,round(salary,-3) from employees;
+
+***
+Display employee ID and the date on which he ended his previous job.
+
+ans--select employee_id,start_date as end_date_prev_job from job_history;
+
+***
+Display first name and date of first salary of the employees.
+
+ans--select first_name,last_name from employees where first_name like 's%' or last_name like 's%';
+
+***
+Display first name and experience of the employees.
+
+ans--select e.first_name,datediff(year, jh.start_date,jh.end_date) as experience from employees e join job_history jh on e.employee_id=jh.employee_id;
+
+***
+Display first name of employees who joined in 2001.
+
+ans--select first_name from employees where year(hire_date)=2001;
+
+***
+Display employees who joined in the current year.
+
+ans--select * from employees where year(hire_date) = 2022;
+
+***
+Display the number of days between system date and 1st January 2011.
+
+ans--select datediff(day,'2011-01-01',getdate());
+
+
+***
+Display number of employees joined after 15th of the month.
+
+ans--select count(*) from employees where day(hire_date)>15;
+
+
+***
+Display third highest salary of employees.
+
+ans--select * from employees order by salary desc offset 1 rows fetch next 1 rows only;
+
+
+
+
+
+
+
+
