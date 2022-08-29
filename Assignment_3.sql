@@ -1,5 +1,5 @@
- CREATE TABLE salespeople(snum INTEGER, sname varchar(10), city varchar(10), comm decimal(3,2));
-
+--  CREATE TABLE salespeople(snum INTEGER, sname varchar(10), city varchar(10), comm decimal(3,2));
+-- use assg3;
 -- CREATE TABLE customers(cnum int, cname varchar(10), city varchar(10), rating int, snum int);
 --  CREATE TABLE orders(onum INT , amt decimal(7,2), odate date, cnum int, snum int);
 
@@ -57,7 +57,7 @@
 
 -- Write a query on the Customers table whose output will exclude all customers with a rating <=
 -- 100, unless they are located in Rome
-
+-- -- 
 -- SELECT * from customers where rating <=100 and city = 'rome'
 
 -- What will be the output from the following query? Select * from Orders
@@ -76,6 +76,5 @@
 
 
 -- Write a query that selects all orders except those with zeroes or NULLs in the amt field
-
--- Select * FROM orders where amt = 0 ;
+select * from Orders Where amt is not null and amt <> 0;
 
