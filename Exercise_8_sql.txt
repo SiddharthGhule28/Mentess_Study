@@ -1,0 +1,75 @@
+To solve below queries use "sales" database
+
+Write a query that uses a subquery to obtain all orders for the customer named Cisneros. Assume
+you do not know his customer number (cnum).
+
+ans--SELECT onum "ALL ORDERS" ,cnum FROM orders WHERE cnum=(SELECT cnum FROM customers WHERE cname='cisneros');
+
+***
+Write a query that produces the names and ratings of all customers who have above- average
+orders.
+
+ans--SELECT cname,rating FROM customers WHERE cnum IN (SELECT cnum FROM orders WHERE amt > (SELECT AVG(amt) FROM orders));
+
+***
+Write a query that selects the total amount in orders for each salesperson for whom this total is
+greater than the amount of the largest order in the table.
+
+ans--select sum(amt) from orders group by snum  having sum(amt)>(select max(amt) from orders);
+
+***
+Write a query that selects all customers whose ratings are equal to or greater than ANY of Serres.
+
+ans--SELECT * FROM customers WHERE snum !=1002 AND rating>=ANY(SELECT rating FROM customers WHERE snum=1002);
+
+***
+Write a query using ANY or ALL that will find all salespeople who have no customers located in
+their city.
+
+ans--SELECT * FROM salespeople WHERE NOT city =ANY (SELECT city FROM customers);
+
+***
+Write a query that selects all orders for amounts greater than any for the customers in London.
+
+ans--SELECT * FROM orders WHERE amt > ANY (SELECT amt FROM orders o, customers c WHERE  o.cnum=c.cnum AND c.city='London');
+
+***
+Extract all the orders of Motika.
+
+ans--SELECT * FROM orders WHERE snum=1004;
+
+***
+Find all the order attribute to salespeople servicing customers in London.
+
+ans--SELECT * FROM orders where cnum IN(SELECT cnum from customers where city='london');
+
+***
+Find names and numbers of all salesperson who have more than one customer.
+
+ans--SELECT * FROM salespeople WHERE snum IN ( SELECT DISTINCT snum  FROM customers c WHERE EXISTS (SELECT * FROM customers b WHERE b.snum=c.snum AND b.cnum<>c.cnum));
+
+***
+ Find salespeople number,name and city who have multiple customers.
+
+ans--SELECT * FROM salespeople WHERE snum IN ( SELECT DISTINCT snum  FROM customers c WHERE EXISTS (SELECT * FROM customers b WHERE b.snum=c.snum AND b.cnum<>c.cnum));
+
+***
+Select customers who have a greater rating than any other customer in Rome.
+
+ans--SELECT * FROM customers where rating> ANY (SELECT rating from customers WHERE city='Rome');
+
+***
+Select all orders that had amounts that were greater that at least one of the orders from ‘1990-10-
+04’ .
+
+ans--SELECT * FROM orders WHERE odate!='1990-10-04' AND amt > ANY(SELECT amt FROM orders WHERE odate='1990-10-04');
+
+***
+Find all orders with amounts smaller than any amount for a customer in San Jose.
+
+ans--SELECT * FROM orders WHERE city='San Jose' AND amt < ANY (SELECT amt FROM orders o, customers c WHERE  o.cnum=c.cnum AND c.city='San Jose');
+
+***
+Select those customers whose rating are higher than every customer in Paris.
+
+ans--SELECT * FROM customers where city!='Paris' AND rating> ANY (SELECT rating from customers WHERE city='Paris');
