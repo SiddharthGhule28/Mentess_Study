@@ -1,0 +1,136 @@
+create database product_db;
+use product_db;
+
+--create category table
+
+create table categories(
+catid integer primary key,
+title varchar(20),
+description varchar(20));
+
+--products: id (PK), title, price, description, category (FK), company
+
+create table products(
+p_id integer primary key,
+title varchar(20),
+price integer,
+description varchar(20),
+category integer,
+company varchar(20),
+foreign key (category) references categories(catid));
+
+--orders:id(pk), total, date
+
+create table orders(
+o_id integer primary key,
+amtotal integer,
+date varchar (10)
+);
+
+--orderdetails: id (PK), orderId (FK), productId (FK), quantity, price, totalPrice, discount
+
+create table orderdetails(
+id integer primary key,
+orderid integer,
+productid integer,
+quantity integer,
+price integer,
+totalprice integer,
+discount integer,
+foreign key (orderid) references orders(o_id),
+foreign key (productid) references products(p_id)
+);
+
+
+--create relationship as shown in table schema
+
+insert into categories
+(catid, title, description)
+values
+(1, 'Clothes', 'Party wear'),
+(2, 'Stationary', 'School materials'),
+(3, 'Grocery', 'Edibles');
+
+select * from categories;
+
+
+***
+insert into products
+(p_id,title,price,description,category,company)
+values
+(101, 'Shirt',500,'mens wear',1,'Blackberry'),
+(102, 'Pen',10,'Ink pen',2,'Parker'),
+(103, 'Book',50,'200 Pages',2,'Classmate'),
+(104, 'Milk',50,'1ltr cow milk',3,'Amul'),
+(105, 'Biscuit',30,'Baked cookies',3,'Parle');
+
+select * from products;
+
+***
+insert into orders
+(o_id,date)
+values
+(11, '25 Aug 22'),
+(12, '25 Aug 22'),
+(13, '25 Aug 22'),
+(14, '26 Aug 22'),
+(15, '26 Aug 22');
+
+select * from orders;
+
+****
+insert into orderdetails
+(id,orderid,productid,quantity,price,totalprice,discount)
+values
+(301,11,101,2,500,1000,200),
+(302,12,102,5,10,50,5),
+(303,13,103,6,50,300,30),
+(304,14,104,2,50,100,10),
+(305,15,105,20,30,600,30);
+
+select * from orderdetails;
+
+****
+--update total amount in orders table
+
+update orders
+set amtotal=800
+where o_id=11;
+
+update orders
+set amtotal=45
+where o_id=12;
+
+update orders
+set amtotal=270
+where o_id=13;
+
+update orders
+set amtotal=90
+where o_id=14;
+
+update orders
+set amtotal=570
+where o_id=15;
+
+select * from orders;
+
+***
+
+select p.title,p.price, ord.quantity,ord.price,ord.totalprice from products p full outer join orderdetails ord on p.p_id=ord.productid;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

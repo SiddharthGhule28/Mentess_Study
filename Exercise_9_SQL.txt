@@ -1,0 +1,41 @@
+SALES DATABASE
+
+Create an index that will enable a user to pull orders for ‘1990-10-03’ out of the Orders table quickly.
+
+ans--
+	CREATE INDEX ind_order_date ON orders(odate);
+	SELECT * FROM orders WHERE odate = '1990-10-03';
+
+ ***
+ If the Orders table has already been created, how can you force the onum field to be unique (assume all current values are unique)? 
+
+
+ans--
+
+first off all we have to remove the null constraint and apply a NOT NULL constraint on the column. To do this execute the following query
+
+	ALTER TABLE orders ALTER column onum int NOT NULL;
+
+After that you can apply a primary key on that same column. To do this execute the following query
+
+	ALTER TABLE orders ADD PRIMARY KEY (onum);
+
+***
+Create an index that would permit salesperson to retrieve his orders.
+
+
+ans--CREATE INDEX I_DATE ON orders(odate);
+
+***     
+Let us assume that each salesperson is to have only one customer of a given rating, and that this is currently the case. Create an index that enforces it.
+
+
+ans--
+    	ALTER TABLE customers ALTER column rating INT NOT NULL;
+
+    	ALTER TABLE customers ADD PRIMARY KEY (rating);
+
+***
+Create an index to speed up searching order on a given date by given customer.
+
+ans--CREATE INDEX ind_odate_cnum ON orders(odate,cnum);

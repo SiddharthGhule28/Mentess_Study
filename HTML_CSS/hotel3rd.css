@@ -1,0 +1,90 @@
+
+        body{
+            background-image: url('catctbg.jpg');
+        }
+       
+        #contact{
+            
+            border: 20px;
+            font-style: oblique;
+            font-size: 40px;
+            font-weight: bold;
+           
+        }
+        p{
+            margin-left: 150px;
+            margin-right: 250px;
+            color: beige;
+            font-style: italic;
+            font-family: Cambria;
+        } 
+    
+    #submit{
+        width: 150px;
+        padding: 10px;
+        margin-left: 300px;        
+        background-color: green;
+        border-radius: 10px;
+    }
+    table{
+        text-align: left;
+        margin-left: 300px;
+        font-style: oblique;
+        color: antiquewhite;
+    }
+    
+    #phone{
+        margin-left: 800px;
+        text-align: justify;
+        padding: 10px;
+        color: antiquewhite;
+        
+    }
+    #fullname{
+        color: blanchedalmond;
+        padding-left: 190px;
+
+    }
+    #email{
+        color: blanchedalmond;
+        padding-left: 190px;
+    }
+    #enquiry{
+        color: blanchedalmond;
+        padding-left: 190px;
+    }
+    #msg{
+        color: blanchedalmond;
+        padding-left: 190px; 
+    
+    }
+    .l1{
+        padding-left: 50px;
+        padding: 10px;
+        margin-left: 50px;   
+    }
+    .l2{
+        padding-left: 50px;
+        padding: 10px;
+        margin-left: 25px;   
+    }
+    .l3{
+        padding-left: 50px;
+        padding: 10px; 
+    }
+    .l4{
+        padding-left: 50px;
+        padding: 10px; 
+        margin-left: 60px;
+    }
+    .home{
+            font-family: 'Courier New', Courier, monospace;
+            background-color: beige;
+            
+        }
+        p a{
+            font-size: 20px;
+            color: brown;
+            font-weight: bold;
+            
+        }

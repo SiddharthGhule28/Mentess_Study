@@ -1,0 +1,34 @@
+To solve below queries use “sales” database
+Write a query that lists each order number followed by the name of the customer who made the
+order.
+
+ans--SELECT o.onum, c.cname FROM customers c INNER JOIN orders o ON (c.snum=o.snum);
+
+***
+Write a query that gives the names of both the salesperson and the customer for each order along
+with the order number.
+
+ans--SELECT s.sname,c.cname,o.onum FROM customers c JOIN salespeople s ON c.snum=s.snum JOIN orders o ON  c.cnum=o.cnum ;
+
+***
+Write a query that produces all customers serviced by salespeople with a commission above 12%.
+
+ans--SELECT c.cname FROM customers c INNER JOIN salespeople s ON (s.snum=c.snum) GROUP BY c.cname,s.comm HAVING s.comm>0.12;
+
+***
+Output the customer’s name, the salesperson’s name, and the salesperson’s rate of commission.
+
+ans--SELECT c.cname, s.sname, s.comm FROM salespeople s INNER JOIN customers c ON (s.snum=c.snum); 
+
+***
+Write a query that calculates the amount of the salesperson’s commission on each order by a
+customer with a rating above 100.
+
+ans--SELECT s.sname,(o.amt*s.comm)*100 AS salespersonscommission FROM orders o JOIN salespeople s ON o.snum=s.snum JOIN customers c ON o.cnum=c.cnum WHERE c.rating>100;
+
+***
+Write a query that produces all pairs of salespeople who are living in the same city.Exclude
+combinations of salespeople with themselves as well as duplicate rows with the order reversed
+
+ANS--SELECT s1.sname, s2.sname FROM salespeople s1 CROSS JOIN salespeople s2 WHERE s1.city=s2.city AND s1.sname!=s2.sname AND s1.sname>s2.sname;
+***
