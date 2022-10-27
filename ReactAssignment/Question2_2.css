@@ -1,0 +1,38 @@
+.container{
+    padding: 5px;
+    background-color: beige;
+    text-align: center;
+    border: 20px solid #f1f1f1;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.head{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 20px;
+    background-color: rgb(235, 214, 186)
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+button{
+    background-color: rgb(100, 178, 32);
+    width: 20%;
+    /* color: orange; */
+    padding:12px;
+    cursor: pointer;
+
+}
+input[type=text], input[type=password]{
+    width: 35%;
+    padding: 12px;
+    margin: 8px;
+    display: inline-block;
+    border: 2px;
+    box-sizing: border-box;
+}
