@@ -1,0 +1,26 @@
+.header {
+  background-color: rebeccapurple;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.headerContainer {
+  width: 100%;
+  max-width: 1024px;
+  margin: 20px 0px 100px 0px;
+}
+.headertitle {
+}
+
+.headerdsc {
+  margin: 20px 0px;
+}
+
+.headerbtn {
+  background-color: rgb(174, 119, 210);
+  color: white;
+  font-weight: 500;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}

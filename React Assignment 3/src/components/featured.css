@@ -1,0 +1,32 @@
+.featuredImg {
+  object-fit: cover;
+  width: 400px;
+  height: 200px;
+  margin: 1px;
+}
+.featureditem {
+  display: inline-block;
+}
+/* display: flex;
+    
+        margin-top: 20px;
+    
+        border: solid black;
+    
+        padding-top: 50px ;
+    
+        padding-bottom:40px ; */
+
+/* } */
+/* .featured{
+
+        display: flex;
+   
+        padding: 5px;
+   
+        width: 33.33%;
+   
+        border: solid black;
+   
+        border-radius: 20px;
+} */
