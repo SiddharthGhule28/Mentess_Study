@@ -1,0 +1,46 @@
+.header {
+  background-color: rebeccapurple;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.headercontainer {
+  width: 100%;
+  max-width: 1024px;
+  margin: 20px;
+}
+.headerList {
+  display: flex;
+  gap: 20px;
+}
+.headerListItem {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.b1 {
+  border-radius: 8px;
+  padding: 4px;
+  color: white;
+  background-color: rgb(105, 78, 131);
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
+.logout:hover {
+  background-color: #fd000093;
+}
+.logout {
+  background-color: rgb(109, 80, 129);
+  margin-top: 30px;
+  color: white;
+  font-weight: 500;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-left: 280px;
+  width: 120px;
+  border-radius: 5px;
+}
