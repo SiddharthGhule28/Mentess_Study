@@ -1,0 +1,10 @@
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\bin\Debug\netstandard2.0\standardclass_lib.deps.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\bin\Debug\netstandard2.0\standardclass_lib.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\bin\Debug\netstandard2.0\standardclass_lib.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.AssemblyInfo.cs
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\standardclass_lib\obj\Debug\netstandard2.0\standardclass_lib.pdb

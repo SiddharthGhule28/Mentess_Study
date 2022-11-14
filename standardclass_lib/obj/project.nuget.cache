@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLqM3+o1ixtm4/o3rg8ajg9LuSaxeynDWYpK3t9h1/vgzkstMB0YD8PXPLtoeXQXOahWtme2xXRee1QDaW3yRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suraj.dalvi\\source\\Repos\\Mentess_Study\\standardclass_lib\\standardclass_lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suraj.dalvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\suraj.dalvi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

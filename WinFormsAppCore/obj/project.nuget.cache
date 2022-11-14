@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZsyVI7G/2cmKqOn2m2pNicrbqsrBn3ZLv5J2POxODumZf7b63DwLJJx/Lv/1raM7m31LXcXI/O6H9DGc2FLJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suraj.dalvi\\source\\Repos\\Mentess_Study\\WinFormsAppCore\\WinFormsAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suraj.dalvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
