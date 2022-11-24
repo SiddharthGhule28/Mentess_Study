@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication_swagger",
+    "\\WebApplication_swagger\\Controllers"
   ],
+  "SelectedNode": "\\CSharp_Assignment1",
   "PreviewInSolutionExplorer": false
 }
