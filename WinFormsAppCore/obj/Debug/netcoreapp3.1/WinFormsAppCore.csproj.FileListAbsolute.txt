@@ -1,0 +1,16 @@
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.deps.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.runtimeconfig.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.runtimeconfig.dev.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\bin\Debug\netcoreapp3.1\WinFormsAppCore.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.Form1.resources
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.csproj.GenerateResource.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.AssemblyInfo.cs
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WinFormsAppCore\obj\Debug\netcoreapp3.1\WinFormsAppCore.genruntimeconfig.cache

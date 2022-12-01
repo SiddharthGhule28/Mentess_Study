@@ -1,0 +1,11 @@
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\WebApplicationNet6_minimal.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\WebApplicationNet6_minimal.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\WebApplicationNet6_minimal.deps.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\WebApplicationNet6_minimal.runtimeconfig.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\WebApplicationNet6_minimal.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WebApplicationNet6_minimal\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

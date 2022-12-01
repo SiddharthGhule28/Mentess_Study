@@ -1,0 +1,11 @@
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\bin\Debug\WindowsForms_AppFrameWork.exe.config
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\bin\Debug\WindowsForms_AppFrameWork.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\bin\Debug\WindowsForms_AppFrameWork.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.Form1.resources
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.Properties.Resources.resources
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.csproj.GenerateResource.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\WindowsForms_AppFrameWork\obj\Debug\WindowsForms_AppFrameWork.pdb

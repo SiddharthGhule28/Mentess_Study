@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORZkZUn/qZlfn8rbVXn4e7pqKny/xygehpOL2gZdmNAJAiY8S+MHQLogoSEK6Q39494jrOT90zlN3sQpExX73g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\suraj.dalvi\\source\\Repos\\Mentess_Study\\WebApplication_CoreWebApp\\WebApplication_CoreWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suraj.dalvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
