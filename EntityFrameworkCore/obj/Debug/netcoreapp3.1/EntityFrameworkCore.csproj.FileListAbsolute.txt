@@ -1,0 +1,248 @@
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.exe
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.deps.json
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.json
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfo.cs
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\staticwebassets\EntityFrameworkCore.StaticWebAssets.Manifest.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.RazorTargetAssemblyInfo.cache
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CopyComplete
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Assignments\ADO.Net,EF&DapperAssignment\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\staticwebassets\EntityFrameworkCore.StaticWebAssets.Manifest.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.RazorTargetAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CopyComplete
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.exe
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.deps.json
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.json
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\staticwebassets\EntityFrameworkCore.StaticWebAssets.Manifest.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.RazorTargetAssemblyInfo.cache
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CopyComplete
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\suraj.dalvi\Downloads\EFCORE\EFCORE\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.deps.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\staticwebassets\EntityFrameworkCore.StaticWebAssets.Manifest.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.RazorTargetAssemblyInfo.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.csproj.CopyComplete
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\EntityFrameworkCore\obj\Debug\netcoreapp3.1\EntityFrameworkCore.genruntimeconfig.cache
