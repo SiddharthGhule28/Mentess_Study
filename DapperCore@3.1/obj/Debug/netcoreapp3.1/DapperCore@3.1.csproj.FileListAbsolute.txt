@@ -1,0 +1,218 @@
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.exe
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.deps.json
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.json
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.dev.json
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.AssemblyReference.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfoInputs.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfo.cs
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CoreCompileInputs.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\DapperCore@3.1.StaticWebAssets.Manifest.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\DapperCore@3.1.StaticWebAssets.Pack.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DapperCore@3.1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DapperCore@3.1.props
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DapperCore@3.1.props
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DapperCore@3.1.props
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.RazorTargetAssemblyInfo.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.genruntimeconfig.cache
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\atik.shaikh\source\repos\EntityFrameWork_Core\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CopyComplete
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.exe
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.deps.json
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.json
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.dev.json
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfo.cs
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\DapperCore@3.1.StaticWebAssets.Manifest.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.RazorTargetAssemblyInfo.cache
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CopyComplete
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\suraj.dalvi\Downloads\DapperCore@3.1 ( Relationships and SP )\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.genruntimeconfig.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.exe
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.deps.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.runtimeconfig.dev.json
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.AssemblyReference.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfoInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.AssemblyInfo.cs
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CoreCompileInputs.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\staticwebassets\DapperCore@3.1.StaticWebAssets.Manifest.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.RazorTargetAssemblyInfo.cache
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.csproj.CopyComplete
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.dll
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.pdb
+C:\Users\suraj.dalvi\source\Repos\Mentess_Study\DapperCore@3.1\obj\Debug\netcoreapp3.1\DapperCore@3.1.genruntimeconfig.cache
